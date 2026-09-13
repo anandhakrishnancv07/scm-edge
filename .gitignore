@@ -1,0 +1,7 @@
+data/raw/
+data/npy/
+*.csv
+*.npy
+.venv/
+__pycache__/
+!*.tflite
